@@ -1,0 +1,13 @@
+E:\Repos\symbolsMethods\Lab3\bin\Debug\netcoreapp3.1\Lab3.exe
+E:\Repos\symbolsMethods\Lab3\bin\Debug\netcoreapp3.1\Lab3.deps.json
+E:\Repos\symbolsMethods\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.json
+E:\Repos\symbolsMethods\Lab3\bin\Debug\netcoreapp3.1\Lab3.runtimeconfig.dev.json
+E:\Repos\symbolsMethods\Lab3\bin\Debug\netcoreapp3.1\Lab3.dll
+E:\Repos\symbolsMethods\Lab3\bin\Debug\netcoreapp3.1\Lab3.pdb
+E:\Repos\symbolsMethods\Lab3\obj\Debug\netcoreapp3.1\Lab3.csprojAssemblyReference.cache
+E:\Repos\symbolsMethods\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfoInputs.cache
+E:\Repos\symbolsMethods\Lab3\obj\Debug\netcoreapp3.1\Lab3.AssemblyInfo.cs
+E:\Repos\symbolsMethods\Lab3\obj\Debug\netcoreapp3.1\Lab3.dll
+E:\Repos\symbolsMethods\Lab3\obj\Debug\netcoreapp3.1\Lab3.pdb
+E:\Repos\symbolsMethods\Lab3\obj\Debug\netcoreapp3.1\Lab3.genruntimeconfig.cache
+E:\Repos\symbolsMethods\Lab3\obj\Debug\netcoreapp3.1\Lab3.csproj.CoreCompileInputs.cache
